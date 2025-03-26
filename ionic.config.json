@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-tablet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
